@@ -1,0 +1,3 @@
+# Fichiers locaux à ne jamais publier
+.droplet
+*.zip
